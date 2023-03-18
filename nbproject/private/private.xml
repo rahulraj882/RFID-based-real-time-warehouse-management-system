@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/RFID_Based_SmartShoppingSystem/src/rfid_based_smartshoppingsystem/OTP.java</file>
+            <file>file:/C:/RFID_Based_SmartShoppingSystem/src/rfid_based_smartshoppingsystem/UserSideInterface.java</file>
+            <file>file:/C:/RFID_Based_SmartShoppingSystem/src/java_arduino/Arduino2java.java</file>
+            <file>file:/C:/RFID_Based_SmartShoppingSystem/src/Database/UploadData.java</file>
+            <file>file:/C:/RFID_Based_SmartShoppingSystem/src/Database/Userinformation.java</file>
+            <file>file:/C:/RFID_Based_SmartShoppingSystem/src/email/Email_Bill.java</file>
+            <file>file:/C:/RFID_Based_SmartShoppingSystem/src/email/java2pdf.java</file>
+            <file>file:/C:/RFID_Based_SmartShoppingSystem/src/Database/RetriveData.java</file>
+            <file>file:/C:/RFID_Based_SmartShoppingSystem/src/rfid_based_smartshoppingsystem/RegisterNewUser2.java</file>
+            <file>file:/C:/RFID_Based_SmartShoppingSystem/src/email/Email.java</file>
+            <file>file:/C:/RFID_Based_SmartShoppingSystem/src/java_arduino/Java2arduino.java</file>
+            <file>file:/C:/RFID_Based_SmartShoppingSystem/src/rfid_based_smartshoppingsystem/Home.java</file>
+            <file>file:/C:/RFID_Based_SmartShoppingSystem/src/rfid_based_smartshoppingsystem/AddItem.java</file>
+            <file>file:/C:/RFID_Based_SmartShoppingSystem/src/Database/Key.java</file>
+            <file>file:/C:/RFID_Based_SmartShoppingSystem/src/rfid_based_smartshoppingsystem/RegisterNewUser.java</file>
+            <file>file:/C:/RFID_Based_SmartShoppingSystem/src/Database/DBConnection.java</file>
+        </group>
+    </open-files>
+</project-private>

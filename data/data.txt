@@ -1,0 +1,2 @@
+name;email;gender;add;city;dob
+Mit  Suthar;meetsuthar64@gmail.com;MALE;fhughu;uhghf;09-01-2000
